@@ -1,0 +1,563 @@
+{
+    "@@locale": "en",
+    "login": "Login",
+    "@login" : {
+        "description": "This is the title of the login page"
+    },
+    "username": "username",
+    "@username" : {
+        "description": "This is the label of the username field"
+    },
+    "password": "Password",
+    "@password" : {
+        "description": "This is the label of the password field"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword" : {
+        "description": "This is the label of the forgot password link"
+    },
+    "loginButton": "Login",
+    "@loginButton" : {
+        "description": "This is the label of the login button"
+    },
+    "register_device": "Register Device",
+    "@register_device" : {
+        "description": "This is the title of the register device page"
+    },
+    "license": "License",
+    "@license" : {
+        "description": "This is the label of the license field"
+    },
+    "registerButton": "Register",
+    "@registerButton" : {
+        "description": "This is the label of the register button"
+    },
+    "text_copyed": "Text copied",
+    "@text_copyed" : {
+        "description": "This is the text shown when a text is copied"
+    },
+    "invalid_license": "The license is invalid",
+    "@invalid_license" : {
+        "description": "This is the text shown when the license is invalid"
+    },
+    "empty_license": "Fill the license field",
+    "@empty_license" : {
+        "description": "This is the text shown when the license is empty"
+    },
+    "register_device_success": "Device registered successfully",
+    "@register_device_success" : {
+        "description": "This is the text shown when the device is registered successfully"
+    },
+    "error_message": "An error occurred, please try again",
+    "@error_message" : {
+        "description": "This is the text shown when an error occurs"
+    },
+    "cancel": "Cancel",
+    "@cancel" : {
+        "description": "This is the label of the cancel button"
+    },
+    "scan_qr_code": "Scan QR Code",
+    "@scan_qr_code" : {
+        "description": "This is the title of the scan QR code page"
+    },
+    "license_not_found_description": "The license you are trying to register is not found",
+    "@license_not_found_description" : {
+        "description": "This is the description of the license not found message"
+    },
+    "unknown_error": "An unknown error occurred",
+    "@unknown_error" : {
+        "description": "This is the text shown when an unknown error occurs"
+    },
+    "error_save_license": "An error occurred while saving the license",
+    "@error_save_license" : {
+        "description": "This is the text shown when an error occurs while saving the license"
+    },
+    "error_saving_token": "An error occurred while saving the token",
+    "@error_saving_token" : {
+        "description": "This is the text shown when an error occurs while saving the token"
+    },
+    "invalid_credentials": "The credentials provided are incorrect",
+    "@invalid_credentials" : {
+        "description": "This is the text shown when the credentials are invalid"
+    },
+    "invalid_username": "The username is invalid",
+    "@invalid_username" : {
+        "description": "This is the text shown when the username is invalid"
+    },
+    "empty_username": "Fill the username field",
+    "@empty_username" : {
+        "description": "This is the text shown when the username is empty"
+    },
+    "empty_password": "Fill the password field",
+    "@empty_password" : {
+        "description": "This is the text shown when the password is empty"
+    },
+    "no_internet_connection": "No internet connection",
+    "@no_internet_connection" : {
+        "description": "This is the text shown when there is no internet connection"
+    },
+    "error_fetching_data": "An error occurred while fetching data",
+    "@error_fetching_data" : {
+        "description": "This is the text shown when an error occurs while fetching data"
+    },
+    "synchronization": "Synchronization",
+    "@synchronization" : {
+        "description": "This is the title of the synchronization page"
+    },
+    "synchronizationAll": "Synchronize all",
+    "@synchronizationAll" : {
+        "description": "This is the label of the synchronize all button"
+    },
+    "get_data": "Receive data",
+    "@get_data" : {
+        "description": "This is the text shown when receiving data"
+    },
+    "send_data": "Send data",
+    "@send_data" : {
+        "description": "This is the text shown when sending data"
+    },
+    "logs": "Logs",
+    "@logs" : {
+        "description": "This is the title of the logs page"
+    },
+    "download_all": "Download all",
+    "@download_all" : {
+        "description": "This is the label of the download all button"
+    },
+    "upload_all": "Upload all",
+    "@upload_all" : {
+        "description": "This is the label of the upload all button"
+    },
+    "download": "Download",
+    "@download" : {
+        "description": "This is the label of the download button"
+    },
+    "upload": "Upload",
+    "@upload" : {
+        "description": "This is the label of the upload button"
+    },
+    "settings": "Settings",
+    "@settings" : {
+        "description": "This is the title of the settings page"
+    },
+    "days": "Days",
+    "@days" : {
+        "description": "This is the label of the days field"
+    },
+    "banks": "Banks",
+    "@banks" : {
+        "description": "This is the label of the banks field"
+    },
+    "products": "Products",
+    "@products" : {
+        "description": "This is the title of the products page"
+    },
+    "customers": "Customers",
+    "@customers" : {
+        "description": "This is the title of the customers page"
+    },
+    "pending_invoices": "Pending Invoices",
+    "@pending_invoices" : {
+        "description": "This is the title of the pending invoices page"
+    },
+    "authorizations": "Authorizations",
+    "@authorizations" : {
+        "description": "This is the title of the authorizations page"
+    },
+    "invoices": "Invoices",
+    "@invoices" : {
+        "description": "This is the title of the invoices page"
+    },
+    "returns": "Returns",
+    "@returns" : {
+        "description": "This is the title of the returns page"
+    },
+    "quotations": "Quotations",
+    "@quotations" : {
+        "description": "This is the title of the quotations page"
+    },
+    "orders": "Orders",
+    "@orders" : {
+        "description": "This is the title of the orders page"
+    },
+    "receipts": "Receipts",
+    "@receipts" : {
+        "description": "This is the title of the receipts page"
+    },
+    "visits": "Visits",
+    "@visits" : {
+        "description": "This is the title of the visits page"
+    },
+    "awaiting_approval_device": "Awaiting approval device",
+    "@awaiting_approval_device" : {
+        "description": "This is the title of the awaiting approval device page"
+    },
+    "awaiting_approval_device_description": "Contact your administrator to approve the device",
+    "@awaiting_approval_device_description" : {
+        "description": "This is the description of the awaiting approval device page"
+    },
+    "logout": "Logout",
+    "@logout" : {
+        "description": "This is the label of the logout button"
+    },
+    "validate": "Validate",
+    "@validate" : {
+        "description": "This is the label of the validate button"
+    },
+    "companies": "Companies",
+    "@companies" : {
+        "description": "This is the title of the companies page"
+    },
+    "error_details": "Error details:",
+    "@error_details" : {
+        "description": "This is the title of the error details page"
+    },
+    "total_errors": "Total errors: {total}",
+    "@total_errors" : {
+        "description": "This is the text shown when there are total errors",
+        "placeholders": {
+            "total": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "duration_ms": "Duration: {duration} ms",
+    "@duration_ms" : {
+        "description": "This is the text shown when the duration is {duration} ms",
+        "placeholders": {
+            "duration": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "timeout_error": "The request has timed out",
+    "@timeout_error" : {
+        "description": "This is the text shown when the request has timed out"
+    },
+    "data_empty_in": "No data available in {data}",
+    "@data_empty_in" : {
+        "description": "This is the text shown when there is no data available in {data}",
+        "placeholders": {
+            "data": {
+                "type": "String",
+                "example": "products"
+            }
+        }
+    },
+    "syncDetailsCompletedTitle": "Synchronization details:",
+    "@syncDetailsCompletedTitle": {
+      "description": "Title showing synchronization details."
+    },
+    "syncDetailsCompletedSubtitle": "The synchronization has been successfully completed.",
+    "@syncDetailsCompletedSubtitle": {
+      "description": "Message showing synchronization completion."
+    },
+    "syncDetailsProgressSubtitle": "{completed} of {total} items have been synchronized.",
+    "@syncDetailsProgressSubtitle": {
+      "description": "Message showing synchronization progress.",
+      "placeholders": {
+        "completed": {
+          "type": "int",
+          "example": "5"
+        },
+        "total": {
+          "type": "int",
+          "example": "10"
+        }
+      }
+    },
+    "cost_centers": "Cost Centers",
+    "@cost_centers" : {
+        "description": "This is the title of the cost centers page"
+    },
+    "prices_types": "Prices Types",
+    "@prices_types" : {
+        "description": "This is the title of the prices types page"
+    },
+    "areas": "Areas",
+    "@areas" : {
+        "description": "This is the title of the areas page"
+    },
+    "routes": "Routes",
+    "@routes" : {
+        "description": "This is the title of the routes page"
+    },
+    "discounts": "Discounts",
+    "@discounts" : {
+        "description": "This is the title of the discounts page"
+    },
+    "warehouses": "Warehouses",
+    "@warehouses" : {
+        "description": "This is the title of the warehouses page"
+    },
+    "tax_receipts": "Tax Receipts",
+    "@tax_receipts" : {
+        "description": "This is the title of the tax receipts page"
+    },
+    "receivable_invoices": "Receivable invoices",
+    "@receivable_invoices" : {
+        "description": "This is the title of the receivable invoices page"
+    },
+    "receivable_types": "Receivable types",
+    "@receivable_types" : {
+        "description": "This is the title of the receivable types page"
+    },
+    "products_types": "Products types",
+    "@products_types" : {
+        "description": "This is the title of the products types page"
+    },
+    "products_formats": "Products formats",
+    "@products_formats" : {
+        "description": "This is the title of the products formats page"
+    },
+    "products_family": "Products family",
+    "@products_family" : {
+        "description": "This is the title of the products family page"
+    },
+    "products_groups": "Products groups",
+    "@products_groups" : {
+        "description": "This is the title of the products groups page"
+    },
+    "classification": "Classification",
+    "@classification" : {
+        "description": "This is the title of the classification page"
+    },
+    "sub_classification": "Sub Classification",
+    "@sub_classification" : {
+        "description": "This is the title of the sub classification page"
+    },
+    "offers": "Offers",
+    "@offers" : {
+        "description": "This is the title of the offers page"
+    },
+    "brands": "Brands",
+    "@brands" : {
+        "description": "This is the title of the brands page"
+    },
+    "units": "Units",
+    "@units" : {
+        "description": "This is the title of the units page"
+    },
+    "units_products": "Units Products",
+    "@units_products" : {
+        "description": "This is the title of the units products page"
+    },
+    "warehouses_products": "Warehouses Products",
+    "@warehouses_products" : {
+        "description": "This is the title of the warehouses products page"
+    },
+    "home": "Home",
+    "@home" : {
+        "description": "This is the title of the home page"
+    },
+    "charges": "Charges",
+    "@charges" : {
+        "description": "This is the title of the charges page"
+    },
+    "search": "Search",
+    "@search" : {
+        "description": "This is the label of the search button"
+    },
+    "filters": "Filters",
+    "@filters" : {
+        "description": "This is the title of the filters page"
+    },
+    "switch_to_list_view": "Switch to list view",
+    "@switch_to_list_view" : {
+        "description": "This is the label of the switch to list view button"
+    },
+    "switch_to_grid_view": "Switch to grid view",
+    "@switch_to_grid_view" : {
+        "description": "This is the label of the switch to grid view button"
+    },
+    "category_empty": "No {category} available, please synchronize",
+    "@category_empty" : {
+        "description": "This is the text shown when there is no {category} available",
+        "placeholders": {
+            "category": {
+                "type": "String",
+                "example": "products"
+            }
+        }
+    },
+    "go_to_synchronization": "Go to synchronization",
+    "@go_to_synchronization" : {
+        "description": "This is the label of the go to synchronization button"
+    },
+    "information_of_client": "Information of client",
+    "@information_of_client" : {
+        "description": "This is the title of the information of client page"
+    },
+    "balance": "Balance",
+    "@balance" : {
+        "description": "This is the label of the balance field"
+    },
+    "credit_limit": "Credit limit",
+    "@credit_limit" : {
+        "description": "This is the label of the credit limit field"
+    },
+    "expired_invoices": "Expired invoices",
+    "@expired_invoices" : {
+        "description": "This is the title of the expired invoices page"
+    },
+    "customer_options": "Customer options",
+    "@customer_options" : {
+        "description": "This is the title of the customer options page"
+    },
+    "recent_activity": "Recent activity",
+    "@recent_activity" : {
+        "description": "This is the title of the recent activity page"
+    },
+    "print": "Print",
+    "@print" : {
+        "description": "This is the label of the print button"
+    },
+    "share": "Share",
+    "@share" : {
+        "description": "This is the label of the share button"
+    },
+    "initiate_collection": "Initiate collection",
+    "@initiate_collection" : {
+        "description": "This is the label of the initiate collection button"
+    },
+    "place_order": "Place order",
+    "@place_order" : {
+        "description": "This is the label of the place order button"
+    },
+    "start_cuotation": "Start cuotation",
+    "@start_cuotation" : {
+        "description": "This is the label of the start cuotation button"  
+    },
+    "exchange_of_products": "Exchange of products",
+    "@exchange_of_products" : {
+        "description": "This is the title of the exchange of products page"
+    },
+    "visit_no_sale": "Visit no sale",
+    "@visit_no_sale" : {
+        "description": "This is the title of the visit no sale page"
+    },
+    "edit_location": "Edit location",
+    "@edit_location" : {
+        "description": "This is the label of the edit location button"
+    },
+    "no_data_available": "No data available",
+    "@no_data_available" : {
+        "description": "This is the text shown when there is no data available"
+    },
+    "error_load_products": "Error loading products",
+    "@error_load_products": {
+        "description": "Message displayed when an error occurs when loading products"
+    },
+    "unbranded": "Unbranded",
+    "@unbranded": {
+        "description": "This message is displayed when the product is unbranded"
+    },
+    "reference_not_available": "Reference not available",
+    "@reference_not_available": {
+        "description": "The product reference is not found in the detail"
+    },
+    "name_not_available": "Name not available",
+    "@name_not_available": {
+        "description": "The product name was not found in the detail"
+    },
+    "change_price": "Change price",
+    "@change_price": {
+        "description": "Change the price of the product in the detail"
+    },
+    "add_to_cart": "Add to cart",
+    "@add_to_cart": {
+        "description": "Add product to cart"
+    },
+    "product_count": "Amount",
+    "@product_count": {
+        "description": "Product quantity in detail"
+    },
+    "product_price": "Price: ",
+    "@product_price": {
+        "description": "The price of the product"
+    },
+    "discounted_price": "Discounted price: ",
+    "@discounted_price": {
+        "description": "The discounted price of the product in the detail of this"
+    },
+    "available_units": "Available units",
+    "@available_units": {
+        "description": "Available units of the product in detail"
+    },
+    "for_the_purchase_of": "For the purchase of",
+    "@for_the_purchase_of": {
+        "description": "Product offers in detail"
+    },
+    "product_information": "Product information",
+    "@product_information": {
+        "description": "Product information in the product detail"
+    },
+    "product_description": "Product description.",
+    "@product_description": {
+        "description": "Product description in the product details"
+    },
+    "unavailable_units": "Unavailable units",
+    "@unavailable_units": {
+        "description": "Unavailable units of the product in detail"
+    },
+    "please_enter_quantity": "Please enter a quantity",
+    "@please_enter_quantity": {
+        "description": "Message displayed when the user tries to add a product to the cart without specifying a quantity"
+    },
+    "comments" : "Comentarios",
+    "@comments": {
+        "description": "This is the title of the comments page"
+    },
+    "write_your_comment" : "Write your comment here....",
+    "@write_your_comment": {
+        "description": "This is the placeholder of the comment input"
+    },
+    "sub_total" : "Sub total",
+    "@sub_total": {
+        "description": "This is the label of the sub total field"
+    },
+    "taxes" : "Taxes",
+    "@taxes": {
+        "description": "This is the label of the taxes field"
+    },
+    "discount" : "Discount",
+    "@discount": {
+        "description": "This is the label of the discount field"
+    },
+    "total" : "Total",
+    "@total": {
+        "description": "This is the label of the total field"
+    },
+    "save" : "Save",
+    "@save": {
+        "description": "This is the label of the save button"
+    },
+    "all_products" : "All products",
+    "@all_products": {
+        "description": "This is the title of the all products page"
+    },
+    "count_products" : "{count} products",
+    "@count_products": {
+        "description": "This is the text shown when there are {count} products",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "confirm_order" : "Confirm order",
+    "@confirm_order": {
+        "description": "This is the label of the confirm order button"
+    },
+    "put_on_hold" : "Put on hold",
+    "@put_on_hold": {
+        "description": "This is the label of the put on hold button"
+    },
+    "modify_value": "Modify",
+    "@modify_value": {
+        "description": "This is the button text to modify a quantity or value"
+    }
+}

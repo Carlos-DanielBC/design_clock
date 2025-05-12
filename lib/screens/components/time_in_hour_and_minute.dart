@@ -30,15 +30,15 @@ class _TimeInHourAndMinuteState extends State<TimeInHourAndMinute> {
     // Convert hour to 12-hour format
     int hour = _timeOfDay.hourOfPeriod == 0 ? 12 : _timeOfDay.hourOfPeriod;
     String minute = _timeOfDay.minute.toString().padLeft(
-      2,
-      '0',
-    ); // Para tener 05 en vez de 5
+          2,
+          '0',
+        ); // Para tener 05 en vez de 5
     String period = _timeOfDay.period == DayPeriod.am ? "AM" : "PM";
 
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        Text("$hour:$minute", style: Theme.of(context).textTheme.headline1),
+        Text("$hour:$minute", style: Theme.of(context).textTheme.displayLarge),
         const SizedBox(width: 5),
         RotatedBox(
           quarterTurns: 3,

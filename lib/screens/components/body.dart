@@ -15,7 +15,7 @@ class Body extends StatelessWidget {
           children: [
             Text(
               "Newport Beach, USA | PST",
-              style: Theme.of(context).textTheme.bodyText1,
+              style: Theme.of(context).textTheme.bodyLarge,
             ),
             TimeInHourAndMinute(),
             Spacer(),
@@ -32,7 +32,6 @@ class Body extends StatelessWidget {
                     time: "9:20",
                     period: "AM",
                   ),
-
                   CountryCard(
                     country: "New York, USA",
                     timeZone: "+3 HRS | EST",

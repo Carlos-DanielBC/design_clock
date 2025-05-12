@@ -28,17 +28,17 @@ class AppTextTheme {
       fontSize: 12,
       color: Colors.black,
     ),
-    bodyText1: TextStyle(
+    bodyLarge: TextStyle(
       fontSize: 12,
       color: Color(0xFFA1B0CA),
       fontWeight: FontWeight.normal,
     ),
-    headline1: TextStyle(
+    displayLarge: TextStyle(
       fontSize: 80,
       fontWeight: FontWeight.w300,
       color: Color(0xFF101112),
     ),
-    headline4: TextStyle(fontSize: 32, color: kTitleTextLightColor),
+    headlineMedium: TextStyle(fontSize: 32, color: kTitleTextLightColor),
   );
 
   /// Texto de la aplicación en tema oscuro.
@@ -64,16 +64,16 @@ class AppTextTheme {
       fontSize: 12,
       color: Colors.black,
     ),
-    bodyText1: TextStyle(
+    bodyLarge: TextStyle(
       fontSize: 12,
       color: Color(0xFFA1B0CA),
       fontWeight: FontWeight.normal,
     ),
-    headline1: TextStyle(
+    displayLarge: TextStyle(
       fontSize: 80,
       fontWeight: FontWeight.w300,
       color: Colors.white,
     ),
-    headline4: TextStyle(fontSize: 32, color: kTitleTextDarkColor),
+    headlineMedium: TextStyle(fontSize: 32, color: kTitleTextDarkColor),
   );
 }

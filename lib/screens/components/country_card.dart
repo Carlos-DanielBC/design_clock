@@ -36,12 +36,12 @@ class CountryCard extends StatelessWidget {
               children: [
                 Text(
                   country,
-                  style: Theme.of(context).textTheme.headline4!.copyWith(
-                    fontSize: getProportionateScreenWidth(16),
-                  ),
+                  style: Theme.of(context).textTheme.headlineSmall!.copyWith(
+                        fontSize: getProportionateScreenWidth(16),
+                      ),
                 ),
                 SizedBox(height: 5),
-                Text(timeZone, style: Theme.of(context).textTheme.bodyText1),
+                Text(timeZone, style: Theme.of(context).textTheme.bodyLarge),
                 Spacer(),
                 Row(
                   children: [
@@ -54,12 +54,13 @@ class CountryCard extends StatelessWidget {
                       ),
                     ),
                     Spacer(),
-                    Text(time, style: Theme.of(context).textTheme.headline4!),
+                    Text(time,
+                        style: Theme.of(context).textTheme.headlineSmall!),
                     RotatedBox(
                       quarterTurns: 3,
                       child: Text(
                         period,
-                        style: Theme.of(context).textTheme.bodyText1,
+                        style: Theme.of(context).textTheme.bodyLarge,
                       ),
                     ),
                   ],

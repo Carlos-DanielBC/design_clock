@@ -1,0 +1,561 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "login": "Iniciar sesión",
+    "@login": {
+        "description": "Este es el título de la página de inicio de sesión"
+    },
+    "username": "Nombre de usuario",
+    "@username": {
+        "description": "Este es el texto del campo de nombre de usuario"
+    },
+    "password": "Contraseña",
+    "@password": {
+        "description": "Este es el texto del campo de contraseña"
+    },
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "@forgotPassword": {
+        "description": "Este es el texto del enlace de olvidaste tu contraseña"
+    },
+    "loginButton": "Iniciar sesión",
+    "@loginButton": {
+        "description": "Este es el texto del botón de inicio de sesión"
+    },
+    "register_device": "Registrar dispositivo",
+    "@register_device": {
+        "description": "Este es el título de la página de registro de dispositivo"
+    },
+    "license": "Licencia",
+    "@license": {
+        "description": "Este es el texto del campo de licencia"
+    },
+    "registerButton": "Registrar",
+    "@registerButton": {
+        "description": "Este es el texto del botón de registro"
+    },
+    "text_copyed": "Texto copiado",
+    "@text_copyed": {
+        "description": "Este es el texto mostrado cuando se copia un texto"
+    },
+    "invalid_license": "La licencia es inválida",
+    "@invalid_license": {
+        "description": "Este es el texto mostrado cuando la licencia es inválida"
+    },
+    "empty_license": "Complete el campo licencia",
+    "@empty_license": {
+        "description": "Este es el texto mostrado cuando la licencia está vacía"
+    },
+    "register_device_success": "Dispositivo registrado con éxito",
+    "@register_device_success": {
+        "description": "Este es el texto mostrado cuando el dispositivo se registra con éxito"
+    },
+    "error_message": "Ha ocurrido un error, por favor intenta nuevamente",
+    "@error_message": {
+        "description": "Este es el texto mostrado cuando ocurre un error"
+    },
+    "cancel": "Cancelar",
+    "@cancel": {
+        "description": "Este es el texto del botón de cancelar"
+    },
+    "scan_qr_code": "Escanear código QR",
+    "@scan_qr_code": {
+        "description": "Este es el texto del botón de escanear código QR"
+    },
+    "license_not_found_description": "La licencia que estás intentando registrar no se encuentra",
+    "@license_not_found_description": {
+        "description": "Este es la descripción del mensaje de licencia no encontrada"
+    },
+    "unknown_error": "Error desconocido",
+    "@unknown_error": {
+        "description": "Este es el texto mostrado cuando ocurre un error desconocido"
+    },
+    "error_save_license": "Ha ocurrido un error al guardar la licencia",
+    "@error_save_license": {
+        "description": "Este es el texto mostrado cuando ocurre un error al guardar la licencia"
+    },
+    "error_saving_token": "Ha ocurrido un error al guardar el token",
+    "@error_saving_token": {
+        "description": "Este es el texto mostrado cuando ocurre un error al guardar el token"
+    },
+    "invalid_credentials": "Las credenciales proporcionadas no son correctas",
+    "@invalid_credentials": {
+        "description": "Este es el texto mostrado cuando las credenciales son inválidas"
+    },
+    "invalid_username": "El formato del nombre de usuario es inválido",
+    "@invalid_username": {
+        "description": "Este es el texto mostrado cuando el correo electrónico es inválido"
+    },
+    "empty_username": "Complete el campo de nombre de usuario",
+    "@empty_username": {
+        "description": "Este es el texto mostrado cuando el nombre de usuario está vacío"
+    },
+    "empty_password": "Complete el campo de contraseña",
+    "@empty_password": {
+        "description": "Este es el texto mostrado cuando la contraseña está vacía"
+    },
+    "no_internet_connection": "No hay conexión a internet",
+    "@no_internet_connection": {
+        "description": "Este es el texto mostrado cuando no hay conexión a internet"
+    },
+    "error_fetching_data": "Ha ocurrido un error al obtener los datos",
+    "@error_fetching_data": {
+        "description": "Este es el texto mostrado cuando ocurre un error al obtener los datos"
+    },
+    "synchronization": "Sincronización",
+    "@synchronization": {
+        "description": "Este es el texto mostrado en la página de sincronización"
+    },
+    "synchronizationAll": "Sincronizar todo",
+    "@synchronizationAll": {
+        "description": "Este es el texto del botón de sincronizar todo"
+    },
+    "get_data": "Recibir datos",
+    "@get_data": {
+        "description": "Este es el texto mostrado cuando se recibe datos"
+    },
+    "send_data": "Enviar datos",
+    "@send_data": {
+        "description": "Este es el texto mostrado cuando se envían datos"
+    },
+    "logs": "Registros",
+    "@logs": {
+        "description": "Este es el título de la página de registros"
+    },
+    "download_all": "Descargar todo",
+    "@download_all": {
+        "description": "Este es el texto del botón de descargar todo"
+    },
+    "upload_all": "Subir todo",
+    "@upload_all": {
+        "description": "Este es el texto del botón de subir todo"
+    },
+    "download": "Descargar",
+    "@download": {
+        "description": "Este es el texto del botón de descargar"
+    },
+    "upload": "Subir",
+    "@upload": {
+        "description": "Este es el texto del botón de subir"
+    },
+    "settings": "Configuración",
+    "@settings": {
+        "description": "Este es el título de la página de configuración y se usara tambien en varios lugares"
+    },
+    "products": "Productos",
+    "@products": {
+        "description": "Este es el título de la página de productos"
+    },
+    "customers": "Clientes",
+    "@customers": {
+        "description": "Este es el título de la página de clientes"
+    },
+    "pending_invoices": "Facturas pendientes",
+    "@pending_invoices": {
+        "description": "Este es el título de la página de facturas pendientes"
+    },
+    "authorizations": "Autorizaciones",
+    "@authorizations": {
+        "description": "Este es el título de la página de autorizaciones"
+    },
+    "invoices": "Facturas",
+    "@invoices": {
+        "description": "Este es el título de la página de facturas"
+    },
+    "returns": "Devoluciones",
+    "@returns": {
+        "description": "Este es el título de la página de devoluciones"
+    },
+    "quotations": "Cotizaciones",
+    "@quotations": {
+        "description": "Este es el título de la página de cotizaciones"
+    },
+    "orders": "Pedidos",
+    "@orders": {
+        "description": "Este es el título de la página de pedidos"
+    },
+    "receipts": "Recibos",
+    "@receipts": {
+        "description": "Este es el título de la página de recibos"
+    },
+    "visits": "Visitas",
+    "@visits": {
+        "description": "Este es el título de la página de visitas"
+    },
+    "awaiting_approval_device": "Esperando aprobación de dispositivo",
+    "@awaiting_approval_device": {
+        "description": "Este es el título de la página de esperando aprobación de dispositivo"
+    },
+    "awaiting_approval_device_description": "Contacte con el administrador para la aprobación del dispositivo",
+    "@awaiting_approval_device_description": {
+        "description": "Este es la descripción de la página de esperando aprobación de dispositivo"
+    },
+    "logout": "Cerrar sesión",
+    "@logout": {
+        "description": "Este es el texto del botón de cerrar sesión"
+    },
+    "validate": "Validar",
+    "@validate": {
+        "description": "Este es el texto del botón de validar"
+    },
+    "banks": "Bancos",
+    "@banks": {
+        "description": "Este es el texto del campo de banco"
+    },
+    "days": "Días",
+    "@days": {
+        "description": "Este es el texto del campo de días"
+    },
+    "companies": "Compañías",
+    "@companies": {
+        "description": "Este es el texto del campo de empresas"
+    },
+    "error_details": "Detalles del error:",
+    "@error_details": {
+        "description": "Este es el texto del campo de detalles del error"
+    },
+    "total_errors": "Errores totales: {total}",
+    "@total_errors": {
+        "description": "Este es el texto del campo de errores totales",
+        "placeholders": {
+            "total": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "duration_ms": "Duración: {duration} ms",
+    "@duration_ms": {
+        "description": "Este es el texto mostrado cuando la duración es {duration} ms",
+        "placeholders": {
+            "duration": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "timeout_error": "La solicitud ha expirado",
+    "@timeout_error": {
+        "description": "Este es el texto mostrado cuando la solicitud ha expirado"
+    },
+    "data_empty_in": "No hay datos disponibles en {data}",
+    "@data_empty_in": {
+        "description": "Este es el texto mostrado cuando no hay datos disponibles en {data}",
+        "placeholders": {
+            "data": {
+                "type": "String",
+                "example": "productos"
+            }
+        }
+    },
+    "syncDetailsCompletedTitle": "Detalles de la sincronización:",
+    "syncDetailsCompletedSubtitle": "La sincronización se ha completado con éxito.",
+    "syncDetailsProgressSubtitle": "Se han sincronizado {completed} de {total} elementos.",
+    "@syncDetailsProgressSubtitle": {
+        "description": "Mensaje que muestra el progreso de la sincronización.",
+        "placeholders": {
+            "completed": {
+                "type": "int",
+                "example": "5"
+            },
+            "total": {
+                "type": "int",
+                "example": "10"
+            }
+        }
+    },
+    "cost_centers": "Centros de costo",
+    "@cost_centers": {
+        "description": "Este es el texto del campo de centros de costo"
+    },
+    "prices_types": "Tipos de precios",
+    "@prices_types": {
+        "description": "Este es el texto del campo de tipos de precios"
+    },
+    "areas": "Áreas",
+    "@areas": {
+        "description": "Este es el texto del campo de áreas"
+    },
+    "routes": "Rutas",
+    "@routes": {
+        "description": "Este es el texto del campo de rutas"
+    },
+    "discounts": "Descuentos",
+    "@discounts": {
+        "description": "Este es el texto del campo de descuentos"
+    },
+    "warehouses": "Almacenes",
+    "@warehouses": {
+        "description": "Este es el texto del campo de almacenes"
+    },
+    "tax_receipts": "Comprobantes fiscales",
+    "@tax_receipts": {
+        "description": "Este es el texto del campo de impuestos"
+    },
+    "receivable_invoices": "Facturas pendientes",
+    "@receivable_invoices": {
+        "description": "Este es el texto del campo de facturas por cobrar"
+    },
+    "receivable_types": "Tipos de facturas por cobrar",
+    "@receivable_types": {
+        "description": "Este es el texto del campo de tipos por cobrar"
+    },
+    "products_types": "Tipos de productos",
+    "@products_types": {
+        "description": "Este es el texto del campo de tipos de productos"
+    },
+    "products_formats": "Formatos de productos",
+    "@products_formats": {
+        "description": "Este es el texto del campo de formatos de productos"
+    },
+    "products_family": "Familia de productos",
+    "@products_family": {
+        "description": "Este es el texto del campo de familia de productos"
+    },
+    "products_groups": "Grupos de productos",
+    "@products_groups": {
+        "description": "Este es el texto del campo de grupos de productos"
+    },
+    "classification": "Clasificación",
+    "@classification": {
+        "description": "Este es el texto del campo de clasificación"
+    },
+    "sub_classification": "Subclasificación",
+    "@sub_classification": {
+        "description": "Este es el texto del campo de subclasificación"
+    },
+    "offers": "Ofertas",
+    "@offers": {
+        "description": "Este es el texto del campo de ofertas"
+    },
+    "brands": "Marcas",
+    "@brands": {
+        "description": "Este es el texto del campo de marcas"
+    },
+    "units": "Unidades",
+    "@units": {
+        "description": "Este es el texto del campo de unidades"
+    },
+    "units_products": "Unidades de productos",
+    "@units_products": {
+        "description": "Este es el texto del campo de unidades de productos"
+    },
+    "warehouses_products": "Productos de almacenes",
+    "@warehouses_products": {
+        "description": "Este es el texto del campo de productos de almacenes"
+    },
+    "home": "Inicio",
+    "@home": {
+        "description": "Este es el texto del campo de inicio"
+    },
+    "charges": "Cobros",
+    "@charges": {
+        "description": "Este es el texto del campo de cobros"
+    },
+    "search": "Buscar",
+    "@search": {
+        "description": "Este es el texto del campo de buscar"
+    },
+    "filters": "Filtros",
+    "@filters": {
+        "description": "Este es el texto del campo de filtros"
+    },
+    "switch_to_list_view": "Cambiar a vista de lista",
+    "@switch_to_list_view": {
+        "description": "Este es el texto del campo de cambiar a vista de lista"
+    },
+    "switch_to_grid_view": "Cambiar a vista de cuadrícula",
+    "@switch_to_grid_view": {
+        "description": "Este es el texto del campo de cambiar a vista de cuadrícula"
+    },
+    "category_empty": "No hay {category} disponibles, por favor sincroniza",
+    "@category_empty": {
+        "description": "Este es el texto mostrado cuando no hay {category} disponibles",
+        "placeholders": {
+            "category": {
+                "type": "String",
+                "example": "productos"
+            }
+        }
+    },
+    "go_to_synchronization": "Ir a sincronización",
+    "@go_to_synchronization": {
+        "description": "Este es el texto del botón de ir a sincronización"
+    },
+    "information_of_client": "Información del cliente",
+    "@information_of_client": {
+        "description": "Este es el texto mostrado en la información del cliente"
+    },
+    "error_load_products": "Error loading products",
+    "@error_load_products": {
+        "description": "Error al encontrar una lista de productos"
+    },
+    "unbranded": "Sin Marca",
+    "@unbranded": {
+        "description": "El producto no trajo marca"
+    },
+    "name_not_available": "Nombre no disponible",
+    "@name_not_available": {
+        "description": "El nombre del producto no se encontro en el detalle"
+    },
+    "reference_not_available": "Referencia no disponible",
+    "@reference_not_available": {
+        "description": "la referencia del producto no sea encontrado en el detalle"
+    },
+    "change_price": "Cambiar precio",
+    "@change_price": {
+        "description": "Cambiar el precio del producto en el detalle"
+    },
+    "add_to_cart": "Agregar al carrito",
+    "@add_to_cart": {
+        "description": "Agregar al carrito el producto"
+    },
+    "product_count": "Cantidad",
+    "@product_count": {
+        "description": "Cantidad del producto en el detalle"
+    },
+    "product_price": "Precio: ",
+    "@product_price": {
+        "description": "El precio del producto"
+    },
+    "discounted_price": "Precio con descuento: ",
+    "@discounted_price": {
+        "description": "El precio descontado al producto en el detalle de este"
+    },
+    "available_units": "Unidades disponibles",
+    "@available_units": {
+        "description": "Unidades disponibles del producto en el detalle"
+    },
+    "for_the_purchase_of": "Por la compra de",
+    "@for_the_purchase_of": {
+        "description": "Ofertas del producto en el detalle"
+    },
+    "product_information": "Información del producto",
+    "@product_information": {
+        "description": "Información del producto en el detalle del mismo"
+    },
+    "balance": "Balance",
+    "@balance": {
+        "description": "Este es el texto del campo de saldo"
+    },
+    "credit_limit": "Límite de crédito",
+    "@credit_limit": {
+        "description": "Este es el texto del campo de límite de crédito"
+    },
+    "expired_invoices": "Facturas vencidas",
+    "@expired_invoices": {
+        "description": "Este es el texto del campo de facturas vencidas"
+    },
+    "customer_options": "Opciones de cliente",
+    "@customer_options": {
+        "description": "Este es el texto del campo de opciones de cliente"
+    },
+    "recent_activity": "Actividad reciente",
+    "@recent_activity": {
+        "description": "Este es el texto del campo de actividad reciente"
+    },
+    "print": "Imprimir",
+    "@print": {
+        "description": "Este es el texto del botón de imprimir"
+    },
+    "share": "Compartir",
+    "@share": {
+        "description": "Este es el texto del botón de compartir"
+    },
+    "initiate_collection": "Iniciar cobro",
+    "@initiate_collection": {
+        "description": "Este es el texto del botón de iniciar cobro"
+    },
+    "place_order": "Realizar pedido",
+    "@place_order": {
+        "description": "Este es el texto del botón de realizar pedido"
+    },
+    "start_cuotation": "Iniciar cotización",
+    "@start_cuotation": {
+        "description": "Este es el texto del botón de iniciar cotización"
+    },
+    "exchange_of_products": "Cambio de mercancia",
+    "@exchange_of_products": {
+        "description": "Este es el texto del botón de intercambio de productos"
+    },
+    "visit_no_sale": "Visita sin venta",
+    "@visit_no_sale": {
+        "description": "Este es el texto del botón de visita sin venta"
+    },
+    "edit_location": "Editar ubicación",
+    "@edit_location": {
+        "description": "Este es el texto del botón de editar ubicación"
+    },
+    "no_data_available": "No hay datos disponibles",
+    "@no_data_available": {
+        "description": "Este es el texto mostrado cuando no hay datos disponibles"
+    },
+    "product_description": "Descripcion del producto.",
+    "@product_description": {
+        "description": "descripcion del producto en el detalle del mismo"
+    },
+    "unavailable_units": "Unidades no disponibles",
+    "@unavailable_units": {
+        "description": "Unidades no disponibles del producto en el detalle"
+    },
+    "please_enter_quantity": "Por favor ingrese la cantidad",
+    "@please_enter_quantity": {
+        "description": "Este es el texto mostrado cuando se debe ingresar la cantidad"
+    },
+    "comments": "Comentarios",
+    "@comments": {
+        "description": "Este es el texto del campo de comentarios"
+    },
+    "write_your_comment": "Escriba su comentario aquí....",
+    "@write_your_comment": {
+        "description": "Este es el texto mostrado cuando se debe escribir un comentario"
+    },
+    "sub_total": "Subtotal",
+    "@sub_total": {
+        "description": "Este es el texto del campo de subtotal"
+    },
+    "taxes": "Impuestos",
+    "@taxes": {
+        "description": "Este es el texto del campo de impuestos"
+    },
+    "total": "Total",
+    "@total": {
+        "description": "Este es el texto del campo de total"
+    },
+    "discount": "Descuento",
+    "@discount": {
+        "description": "Este es el texto del campo de descuento"
+    },
+    "save": "Guardar",
+    "@save": {
+        "description": "Este es el texto del botón de guardar"
+    },
+    "all_products": "Todos los productos",
+    "@all_products": {
+        "description": "Este es el texto del campo de todos los productos"
+    },
+    "count_products": "{count} productos",
+    "@count_products": {
+        "description": "Este es el texto mostrado cuando hay {count} productos",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "confirm_order": "Confirmar pedido",
+    "@confirm_order": {
+        "description": "Este es el texto del botón de confirmar pedido"
+    },
+    "put_on_hold": "Poner en espera",
+    "@put_on_hold": {
+        "description": "Este es el texto del botón de poner en espera"
+    },
+    "modify_value": "Modificar",
+    "@modify_value": {
+        "description": "Este es el texto del botón de para modificar una cantidad o un valor"
+    }
+}
